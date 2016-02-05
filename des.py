@@ -1,5 +1,4 @@
 from Crypto.Cipher import DES
-from Crypto import Random
 import sys
 
 key = b'8bytekey'
